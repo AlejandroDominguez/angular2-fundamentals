@@ -1,0 +1,25 @@
+{
+  "passengers": [
+    {
+      "id": 110,
+      "age": 55,
+      "checkedIn": true,
+      "fullname": "Juan Caca",
+      "checkedInDate": 1489393953148
+    },
+    {
+      "id": 10,
+      "age": 48,
+      "checkedIn": true,
+      "fullname": "Maria Barrio",
+      "checkedInDate": 1489393913148
+    },
+    {
+      "id": 210,
+      "age": 17,
+      "checkedIn": false,
+      "fullname": "Jean Bautiste",
+      "checkedInDate": null
+    }
+  ]
+}
